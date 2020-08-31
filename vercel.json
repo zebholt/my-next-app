@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "src": "/.*",
+      "headers": { "cache-control": "max-age=604800" }
+    }
+  ]
+}
+
